@@ -1,0 +1,264 @@
+nextData 0
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\Silicio2p\OxidoInfinito\OxidoInfinito_single 9.xy
+comment 05
+skipLines 304 
+xChannel 0 yChannel 1 
+ 
+ shift 0.0526123  offset         0  gain         1  externalX        85  
+Parameters
+recoverParameters
+leftLimit     1379.2   rightLimit     1390.7
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   120.387  free
+ Poly2 poly2Bkgn 0.0229104  free
+ Int integralBkgn 0.00144617  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.13184 free
+lorentzian     0.085 fix
+energy    1382.7 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   4287.12 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.13184 free
+lorentzian     0.085 fix
+energy   1384.13 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   1167.36 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 1
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\Silicio2p\OxidoInfinito\OxidoInfinito_single 12.xy
+comment 15
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift 0.0449219  offset         0  gain         1  externalX        75  
+Parameters
+recoverParameters
+leftLimit     1379.2   rightLimit     1390.7
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   120.387  free
+ Poly2 poly2Bkgn 0.0229104  free
+ Int integralBkgn 0.00144617  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.13184 free
+lorentzian     0.085 fix
+energy    1382.7 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   4287.12 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.13184 free
+lorentzian     0.085 fix
+energy   1384.13 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   1167.36 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 2
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\Silicio2p\OxidoInfinito\OxidoInfinito_single 15.xy
+comment 25
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift 0.0463867  offset         0  gain         1  externalX        65  
+Parameters
+recoverParameters
+leftLimit     1379.2   rightLimit     1390.7
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   98.5742  free
+ Poly2 poly2Bkgn  0.014112  free
+ Int integralBkgn 0.00234774  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss    1.1257 free
+lorentzian     0.085 fix
+energy    1382.7 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   3401.39 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss    1.1257 free
+lorentzian     0.085 fix
+energy   1384.16 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   1016.55 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 3
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\Silicio2p\OxidoInfinito\OxidoInfinito_single 18.xy
+comment 35
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift 0.00634766  offset         0  gain         1  externalX        55  
+Parameters
+recoverParameters
+leftLimit     1379.2   rightLimit     1390.7
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   75.9495  free
+ Poly2 poly2Bkgn 0.0135881  free
+ Int integralBkgn 0.00263295  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.17798 free
+lorentzian     0.085 fix
+energy    1382.7 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   2452.34 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.18389 free
+lorentzian     0.085 fix
+energy   1384.16 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   797.075 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 4
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\Silicio2p\OxidoInfinito\OxidoInfinito_single 21.xy
+comment 45
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift -0.0166016  offset         0  gain         1  externalX        45  
+Parameters
+recoverParameters
+leftLimit     1379.2   rightLimit     1390.7
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   69.7524  free
+ Poly2 poly2Bkgn -0.0147522  free
+ Int integralBkgn 0.000471235  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.26739 free
+lorentzian     0.085 fix
+energy    1382.7 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   1945.51 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   0.90479 free
+lorentzian     0.085 fix
+energy   1384.19 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   644.308 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 5
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\Silicio2p\OxidoInfinito\OxidoInfinito_single 24.xy
+comment 55
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift -0.0355225  offset         0  gain         1  externalX         5  
+Parameters
+recoverParameters
+leftLimit     1379.2   rightLimit     1390.7
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   44.7848  free
+ Poly2 poly2Bkgn -0.00917865  free
+ Int integralBkgn -0.000415801  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.28984 free
+lorentzian     0.085 fix
+energy   1382.79 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   901.876 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.861926 free
+lorentzian     0.085 fix
+energy   1384.21 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   473.768 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
