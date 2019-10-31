@@ -1,0 +1,60 @@
+Parameters
+recoverParameters
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   58.6124  free
+ Poly2 poly2Bkgn -0.0700747  free
+ Int integralBkgn 0.00423912  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.444582 free
+lorentzian     0.085 fix
+energy    1387.3 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   232.197 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.24707 free
+lorentzian     0.085 fix
+energy   1382.42 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   3411.31 free
+peakType Voigt
+peakColor clOlive
+nextPeak 2
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.444582  correlation g0
+lorentzian     0.085 fix
+energy   1386.76 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   40.9843 free
+peakType Voigt
+peakColor clOlive
+nextPeak 3
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.24707  correlation g1
+lorentzian     0.085 fix
+energy   1384.14 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   90.6644 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters

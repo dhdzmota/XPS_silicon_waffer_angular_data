@@ -1,0 +1,102 @@
+nextData 0
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 9(Si).xy
+comment 05
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift         0  offset         0  gain         1  externalX        85  
+Parameters
+recoverParameters
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   112.897  free
+ Poly2 poly2Bkgn -0.455493  free
+ Int integralBkgn 0.00840699  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.417355 free
+lorentzian     0.085 fix
+energy   1386.85 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   1039.42 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.32584 free
+lorentzian     0.085 fix
+energy    1381.9 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   6841.94 free
+peakType Voigt
+peakColor clOlive
+nextPeak 2
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.417355  correlation g0
+lorentzian     0.085 fix
+energy   1386.44 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   276.123 free
+peakType Voigt
+peakColor clOlive
+nextPeak 3
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.32584  correlation g1
+lorentzian     0.085 fix
+energy   1384.06 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   132.396 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 1
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 12(Si).xy
+comment 15
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift         0  offset         0  gain         1  externalX        75  
+nextData 2
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 15(Si).xy
+comment 25
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift         0  offset         0  gain         1  externalX        65  
+nextData 3
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 18(Si).xy
+comment 35
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift         0  offset         0  gain         1  externalX        55  
+nextData 4
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 21(Si).xy
+comment 45
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift         0  offset         0  gain         1  externalX        45  
+nextData 5
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 24(Si).xy
+comment 55
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift         0  offset         0  gain         1  externalX        35  

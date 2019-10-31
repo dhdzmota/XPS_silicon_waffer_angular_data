@@ -1,0 +1,402 @@
+nextData 0
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 9(Si).xy
+comment 05
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift  0.505249  offset         0  gain         1  externalX        85  
+Parameters
+recoverParameters
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   112.934  free
+ Poly2 poly2Bkgn -0.455903  free
+ Int integralBkgn 0.00839948  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.417199 free
+lorentzian     0.085 fix
+energy   1387.36 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   1039.42 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.32572 free
+lorentzian     0.085 fix
+energy   1382.41 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   6842.06 free
+peakType Voigt
+peakColor clOlive
+nextPeak 2
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.417199  correlation g0
+lorentzian     0.085 fix
+energy   1386.95 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area    276.07 free
+peakType Voigt
+peakColor clOlive
+nextPeak 3
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.33237  correlation g1
+lorentzian     0.085 fix
+energy   1384.57 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   132.461 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 1
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 12(Si).xy
+comment 15
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift  0.435547  offset         0  gain         1  externalX        75  
+Parameters
+recoverParameters
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn     96.21  free
+ Poly2 poly2Bkgn -0.287272  free
+ Int integralBkgn 0.00817433  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.446458 free
+lorentzian     0.085 fix
+energy    1387.3 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area    1094.8 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.33995 free
+lorentzian     0.085 fix
+energy   1382.41 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   6061.34 free
+peakType Voigt
+peakColor clOlive
+nextPeak 2
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.446458  correlation g0
+lorentzian     0.085 fix
+energy   1386.83 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   172.386 free
+peakType Voigt
+peakColor clOlive
+nextPeak 3
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.34667  correlation g1
+lorentzian     0.085 fix
+energy   1384.67 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   102.511 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 2
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 15(Si).xy
+comment 25
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift  0.417725  offset         0  gain         1  externalX        65  
+Parameters
+recoverParameters
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   86.8173  free
+ Poly2 poly2Bkgn -0.363065  free
+ Int integralBkgn 0.00854886  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.450428 free
+lorentzian     0.085 fix
+energy    1387.3 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   1019.28 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.31598 free
+lorentzian     0.085 fix
+energy   1382.44 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   5171.37 free
+peakType Voigt
+peakColor clOlive
+nextPeak 2
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.450428  correlation g0
+lorentzian     0.085 fix
+energy   1386.83 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   138.051 free
+peakType Voigt
+peakColor clOlive
+nextPeak 3
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.32257  correlation g1
+lorentzian     0.085 fix
+energy   1384.64 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   100.976 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 3
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 18(Si).xy
+comment 35
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift  0.387207  offset         0  gain         1  externalX        55  
+Parameters
+recoverParameters
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   82.1695  free
+ Poly2 poly2Bkgn -0.362425  free
+ Int integralBkgn 0.00767853  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.424776 free
+lorentzian     0.085 fix
+energy    1387.3 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   671.462 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss    1.2477 free
+lorentzian     0.085 fix
+energy    1382.4 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   4609.07 free
+peakType Voigt
+peakColor clOlive
+nextPeak 2
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.424776  correlation g0
+lorentzian     0.085 fix
+energy   1386.91 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   180.959 free
+peakType Voigt
+peakColor clOlive
+nextPeak 3
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.25396  correlation g1
+lorentzian     0.085 fix
+energy   1384.22 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   105.353 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 4
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 21(Si).xy
+comment 45
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift   0.49292  offset         0  gain         1  externalX        45  
+Parameters
+recoverParameters
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn    65.064  free
+ Poly2 poly2Bkgn  -0.11693  free
+ Int integralBkgn 0.00635756  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.486616 free
+lorentzian     0.085 fix
+energy    1387.3 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   502.864 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.31071 free
+lorentzian     0.085 fix
+energy   1382.45 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   4280.24 free
+peakType Voigt
+peakColor clOlive
+nextPeak 2
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.486616  correlation g0
+lorentzian     0.085 fix
+energy   1386.62 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   55.2384 free
+peakType Voigt
+peakColor clOlive
+nextPeak 3
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.31728  correlation g1
+lorentzian     0.085 fix
+energy   1384.63 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   79.5271 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters
+nextData 5
+fileName D:\Downloads\ITESO (9 Noveno Semestre)\Ingeniería en Nanomateriales II\Práctica 4\SiO 24(Si).xy
+comment 55
+skipLines 44 
+xChannel 0 yChannel 1 
+ 
+ shift  0.505249  offset         0  gain         1  externalX        35  
+Parameters
+recoverParameters
+tolerance       0.01
+maxNumIterations  4
+iterationsIntegralBkgn  6
+photonEnergy     1486.7
+xAxisComesInBindingEnergy
+backgroundTypeNew Poly0 poly0Bkgn   58.6124  free
+ Poly2 poly2Bkgn -0.0700747  free
+ Int integralBkgn 0.00423912  free
+
+nextPeak 0
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.444582 free
+lorentzian     0.085 fix
+energy    1387.3 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   232.197 free
+peakType Voigt
+peakColor clOlive
+nextPeak 1
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.24707 free
+lorentzian     0.085 fix
+energy   1382.42 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   3411.31 free
+peakType Voigt
+peakColor clOlive
+nextPeak 2
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss  0.444582  correlation g0
+lorentzian     0.085 fix
+energy   1386.76 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   40.9843 free
+peakType Voigt
+peakColor clOlive
+nextPeak 3
+doublet 
+soSplitting      -0.6 fix
+branchingRatio       0.5 fix
+gauss   1.25332  correlation g1
+lorentzian     0.085 fix
+energy   1384.14 free
+asymmetry         1  limitUp    10 limitDown     1
+asymmetryDoniach       0.1  limitUp     1 limitDown     0
+area   90.6644 free
+peakType Voigt
+peakColor clOlive
+  endOfParameters

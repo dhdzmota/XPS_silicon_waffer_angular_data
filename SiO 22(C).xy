@@ -1,0 +1,116 @@
+# Created by:        SpecsLab Prodigy, Version 4.50.2-r79252 
+#
+# XY-Serializer Export Settings:
+#   Comment Prefix:           #
+#   Output meta data:         yes
+#   Energy Axis:              Binding Energy
+#   Count Rate:               Counts per Second
+#   Separate Scan Data:       no
+#   Separate Channel Data:    no
+#   External Channel Data:    yes
+#   Transmission Function:    no
+#   ErrorBar:                 no
+#   Operation Results:        yes
+#   Time Zone Format:         UTC
+#
+# Group:             Spectrum Group 55
+#
+# Region:            C1s
+# Acquisition Date:  10/25/19 19:38:18 UTC
+# Analysis Method:   XPS
+# Analyzer:          Phoibos
+# Analyzer Lens:     MediumArea:1.5kV
+# Analyzer Slit:     5:7x20\B:open
+# Scan Mode:         FixedAnalyzerTransmission
+# Curves/Scan:       1
+# Values/Curve:      71
+# Dwell Time:        0.1
+# Excitation Energy: 1486.71
+# Binding Energy:    289
+# Pass Energy:       10
+# Bias Voltage:      90
+# Detector Voltage:  1900
+# Eff. Workfunction: 4.395
+# Source:            Focus
+# Comment:           
+#
+# Cycle: 0
+# Number of Scans: 12
+#
+# Cycle: 0, Curve: 0
+# Acquisition Date: 10/25/19 19:38:18 UTC
+#
+# ColumnLabels: energy counts/s
+#
+289  448.66051
+288.9  441.56233
+288.8  448.12635
+288.7  448.25384
+288.6  414.24898
+288.5  420.56487
+288.4  439.53916
+288.3  417.12982
+288.2  445.35481
+288.1  450.41982
+288  438.01846
+287.9  435.3308
+287.8  444.38972
+287.7  459.05434
+287.6  466.63376
+287.5  488.44396
+287.4  500.85642
+287.3  507.61435
+287.2  492.55053
+287.1  530.43258
+287  566.05041
+286.9  577.91131
+286.8  640.68638
+286.7  684.52534
+286.6  715.31256
+286.5  741.13081
+286.4  780.00992
+286.3  790.59771
+286.2  797.7758
+286.1  785.02
+286  810.21788
+285.9  754.76222
+285.8  777.28356
+285.7  738.10171
+285.6  664.46041
+285.5  619.69199
+285.4  603.89438
+285.3  601.83429
+285.2  521.52262
+285.1  521.98501
+285  509.23516
+284.9  484.54097
+284.8  455.0161
+284.7  463.84866
+284.6  419.9802
+284.5  404.52295
+284.4  447.36873
+284.3  419.85409
+284.2  434.75814
+284.1  407.97895
+284  420.8654
+283.9  424.40776
+283.8  394.09803
+283.7  402.35642
+283.6  418.6153
+283.5  439.74147
+283.4  403.10368
+283.3  414.89947
+283.2  406.2547
+283.1  410.72896
+283  410.44301
+282.9  433.55941
+282.8  426.80503
+282.7  408.09506
+282.6  410.00784
+282.5  410.48324
+282.4  401.03636
+282.3  401.8568
+282.2  427.11368
+282.1  401.03011
+282  402.26767
+
